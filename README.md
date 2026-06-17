@@ -119,7 +119,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HarshGharat.HarshGharat" alt="visitors" />
 
   <br />
-
   <!-- GIF Image -->
   <img height="300" src="https://giffiles.alphacoders.com/223/223393.gif" alt="animated gif" />
 </div>
