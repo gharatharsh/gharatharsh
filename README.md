@@ -115,7 +115,7 @@
 ## 👀 Profile Visitors
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yuvraj-Bhailot.Yuvraj-Bhailot) -->
 <div align="center">
-  <img height="800" src="[https://giffiles.alphacoders.com/110/110062.gi](https://tenor.com/view/obito-naruto-obito-uchiha-naruto-shippuden-tobi-gif-13245411252932627796)f" />
+  <img height="400" src="https://gifs.alphacoders.com/gifs/view/220034 />
 </div>
 
 🍥 *"Believe it! — Dattebayo!" · This is my ninja way* 🍥
