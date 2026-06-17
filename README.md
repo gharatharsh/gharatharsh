@@ -114,16 +114,24 @@
 
 ## 👀 Profile Visitors
 
-<div align="center">
+<div style="display: flex; justify-content: space-evenly; gap: 10px;">
   <!-- Visitor Badge -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HarshGharat.HarshGharat" alt="visitors" />
 
-  <br />
-  <!-- GIF Image -->
-  <img height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VnZDFvaGVub3gwbG5xbW42NHRzbzE0aHR0eGMwbWM5OTZ2ZnhoMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/NDYQkBC3C1aog/200.webp" />
+  <!-- GIF Image 1 -->
+  <img height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VnZDFvaGVub3gwbG5xbW42NHRzbzE0aHR0eGMwbWM5OTZ2ZnhoMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/NDYQkBC3C1aog/200.webp" alt="gif1" />
+
+  <!-- GIF Image 3 -->
+  <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTIwaWM2NzZyZGFsZ2liaWJmaHk1emZkMTRmZXV1cDRsOGpkaTRmMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vtZGW1MQ3TX5tQOkvT/200.webp" alt="gif3" />
 </div>
 
-🍥 *"Believe it! — Dattebayo!" · This is my ninja way* 🍥
+<div align="center">
+<img height="500" src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWt1NDQxcDBvYXp4dmMya3ppcnB3OGkxdjMyMnZucWgyeWo4YmNzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vAa9MR9bnbWrm/giphy.gif" />
+
+</div >
+<div style="text-align: center; color: orange;">
+  🍥 <em>"Believe it! — Dattebayo!" · This is my ninja way</em> 🍥
+</div>
 
 </div>
 
