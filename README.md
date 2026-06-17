@@ -117,7 +117,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Harsh Gharat.Harsh Gharat" alt="visitors" />
   <br />
-  <img height="300" src="https://gifs.alphacoders.com/gifs/view/220034" />
+  <img height="300" src="https://giffiles.alphacoders.com/223/223393.gif" />
 </div>
 
 🍥 *"Believe it! — Dattebayo!" · This is my ninja way* 🍥
