@@ -112,9 +112,13 @@
 
 ---
 
+## 👀 Profile Visitors
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yuvraj-Bhailot.Yuvraj-Bhailot) -->
 <div align="center">
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=gharatharsh&icon=5&color=6)](https://visitcount.itsvg.in)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuvraj-Bhailot.Yuvraj-Bhailot" alt="visitors" />
+  <br />
+  <img height="300" src="https://giffiles.alphacoders.com/110/110062.gif" />
+</div>
 
 🍥 *"Believe it! — Dattebayo!" · This is my ninja way* 🍥
 
