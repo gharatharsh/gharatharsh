@@ -115,9 +115,13 @@
 ## 👀 Profile Visitors
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Harsh Gharat.Harsh Gharat" alt="visitors" />
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HarshGharat.HarshGharat" alt="visitors" />
+
   <br />
-  <img height="300" src="https://giffiles.alphacoders.com/223/223393.gif" />
+
+  <!-- GIF Image -->
+  <img height="300" src="https://giffiles.alphacoders.com/223/223393.gif" alt="animated gif" />
 </div>
 
 🍥 *"Believe it! — Dattebayo!" · This is my ninja way* 🍥
