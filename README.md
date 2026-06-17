@@ -120,7 +120,7 @@
 
   <br />
   <!-- GIF Image -->
-  <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VnZDFvaGVub3gwbG5xbW42NHRzbzE0aHR0eGMwbWM5OTZ2ZnhoMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/NDYQkBC3C1aog/200.webp" />
+  <img height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VnZDFvaGVub3gwbG5xbW42NHRzbzE0aHR0eGMwbWM5OTZ2ZnhoMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/NDYQkBC3C1aog/200.webp" />
 </div>
 
 🍥 *"Believe it! — Dattebayo!" · This is my ninja way* 🍥
