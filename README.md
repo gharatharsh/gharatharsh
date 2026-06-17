@@ -49,8 +49,8 @@
 ```
 ☕ Java        ████████████████████░░░  85%  [S  Rank — Primary Weapon ⭐]
 🐍 Python      ███████████████████░░░░  82%  [A+ Rank — Core Jutsu]
-🧠 Data Sci    ██████████████████░░░░░  75%  [A  Rank — Kekkei Genkai]
 🌐 HTML/CSS    █████████████████░░░░░░  70%  [A  Rank — Combat Ready]
+🧠 Data Sci    ██████████████████░░░░░  75%  [A  Rank — Kekkei Genkai]
 🗄️ Databases   ████████████████░░░░░░░  65%  [B+ Rank — Summoning Arts]
 🤖 ML/sklearn  ███████████████░░░░░░░░  60%  [B  Rank — Forbidden Scroll]
 📐 R Language  █████████████░░░░░░░░░░  50%  [B- Rank — Sage Training]
@@ -113,9 +113,11 @@
 ---
 
 ## 👀 Profile Visitors
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yuvraj-Bhailot.Yuvraj-Bhailot) -->
+
 <div align="center">
-  <img height="400" src="https://gifs.alphacoders.com/gifs/view/220034 />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Harsh Gharat.Harsh Gharat" alt="visitors" />
+  <br />
+  <img height="300" src="https://gifs.alphacoders.com/gifs/view/220034" />
 </div>
 
 🍥 *"Believe it! — Dattebayo!" · This is my ninja way* 🍥
