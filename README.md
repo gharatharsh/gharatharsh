@@ -90,11 +90,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gharatharsh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=161616&title_color=e85d04&text_color=b89a6a&icon_color=ff9500)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gharatharsh&theme=dark&hide_border=true&background=161616&ring=e85d04&fire=ff9500&currStreakLabel=ff9500)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gharatharsh&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=161616&title_color=e85d04&text_color=b89a6a)
 
 </div>
 
